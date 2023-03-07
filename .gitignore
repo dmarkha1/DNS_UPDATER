@@ -1,0 +1,5 @@
+venv
+.env
+ip_data.json
+log.txt
+my_domains.json
